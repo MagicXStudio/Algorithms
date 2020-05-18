@@ -33,8 +33,8 @@
 ##
 ### WHAT IS C# ALGORITHMS?
 
-A plug-and-play class-library project of standard Data Structures and Algorithms, written in C#. It contains **75+** Data Structures and Algorithms, designed as Object-Oriented isolated components. Even though this project started for educational purposes, the implemented Data Structures and Algorithms are standard, efficient, stable and tested.
-
+A plug-and-play class-library project of standard Data Structures and Algorithms, written in C#. It contains **75+** Data Structures and Algorithms, designed as Object-Oriented isolated components. Even though this project started for educational purposes, the implemented Data Structures[数据结构] and Algorithms[算法] are standard, efficient, stable and tested.
+https://github.com/riyadparvez/data-structures-csharp
 ##
 ### BACK STORY
 
